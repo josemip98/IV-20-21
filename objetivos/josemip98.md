@@ -60,3 +60,7 @@
  - [x] Entender diseño de rutas.
  - [x] Entender el concepto de middleware.
  - [x] Realizados los [ejercicios de autoevaluación](https://github.com/josemip98/EjerciciosIV/tree/master/Tema%20microservicios) del tema sobre microservicios. 
+
+## Octava semana
+- [x] Conocer el concepto de Paas
+- [x] Realizados los [ejercicios de autoevaluación](https://github.com/josemip98/EjerciciosIV/blob/master/Tema%20Paas/README.md#desplegando-aplicaciones-en-la-nube-uso-de-paas) del tema sobre Paas. 
