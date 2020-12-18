@@ -55,6 +55,7 @@
 
  ## Séptima semana
  - [x] Comparar diferentes frameworks para JavaScript.
+ - [x] Elegir herramienta para el log
  - [x] Entiendo el concepto de microservicio.
  - [x] Entender diseño de rutas.
  - [x] Entender el concepto de middleware.
